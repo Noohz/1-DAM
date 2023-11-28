@@ -1,0 +1,9 @@
+1;Toshiba SSD;56.0;234;HD
+2;Philips 4k 20;550.0;35;MONITOR 
+3;Seagate SSD;80.5;120;HD
+4;Sony 16;500.0;50;MONITOR
+5;Logitec k5;100.0;6;TECLADO
+6;Western Digital;400.0;20;HD
+7;Logitec;50,0;30;MOUSE
+8;Logitec S1;75.5;teclado
+9;Sharkoon;45.5:20;MOUSE
