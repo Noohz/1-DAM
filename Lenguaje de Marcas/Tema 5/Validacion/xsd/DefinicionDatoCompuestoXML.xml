@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<pelicula xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="/home/diurno/Escritorio/html Lenguaje de Marcas/Tema 5/Validacion/xsd/DefinicionDatoCompuestoXSD.xsd">
+
+    <titulo>Piratas del Caribe:La Maldición de la Perla Negra</titulo>
+    <datos>
+        <director>Gore Verbinski</director>
+        <estreno>2003</estreno>
+        <actor>Johnny Depp</actor>
+        <actor>Keira Knightley</actor>
+        <actor>Orlando Bloom</actor>
+    </datos>
+</pelicula>

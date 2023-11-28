@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<alumno xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+        xs:noNamespaceSchemaLocation="./esquemaEjemplo1.xsd">
+
+    <nombre>Rafael</nombre>
+    
+    <apellidos>Nadal Parera</apellidos>
+    
+    
+
+</alumno>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogo xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="./Ejercicio1XSD.xsd">
+
+    <articulo>
+
+        <codigo>aBc-012</codigo>
+        <nombre>Torta del Casar</nombre>
+        <precio>11.75</precio>
+        <provincia>Caceres</provincia>
+
+    </articulo>
+
+    <articulo>
+
+        <codigo>Xyz-789</codigo>
+        <nombre>Queso de la Serena</nombre>
+        <precio>10.50</precio>
+        <provincia>Badajoz</provincia>
+
+    </articulo>
+
+</catalogo>

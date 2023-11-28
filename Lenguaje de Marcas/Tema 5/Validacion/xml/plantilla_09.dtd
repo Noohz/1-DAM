@@ -1,0 +1,3 @@
+<!ELEMENT alumnos (nombre)+>
+<!ELEMENT nombre (#PCDATA)>
+<!ATTLIST nombre edad CDATA #REQUIRED telefono CDATA #REQUIRED >

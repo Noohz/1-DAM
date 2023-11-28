@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLEstructurasDeControlForEach.xsl" ?>
+
+<notas>
+  <alumno convocatoria=Febrero">
+    <nombre>Fernando</nombre>
+    <apellidos>García Sánchez</apellidos>
+    <matricula>m019843</matricula>
+    <cuestionarios>8.0</cuestionarios>
+    <tareas>8.0</tareas>
+    <examen>6.0</examen>
+    <final>8.0</final>
+  </alumno>
+
+  <alumno convocatoria=Junio>
+    <nombre>José</nombre>
+    <apellidos>Muñoz Soto</apellidos>
+    <matricula>k102312</matricula>
+    <cuestionarios>4.0</cuestionarios>
+    <tareas>6.0</tareas>
+    <examen>8.0</examen>
+    <final>8.5</final>
+  </alumno>
+
+  <alumno convocatoria=Junio>
+    <nombre>Ana</nombre>
+    <apellidos>Martínez Fuentes</apellidos>
+    <matricula>q123610</matricula>
+    <cuestionarios>6.0</cuestionarios>
+    <tareas>8.0</tareas>
+    <examen>6.0</examen>
+    <final>5.5</final>
+  </alumno>
+</notas>

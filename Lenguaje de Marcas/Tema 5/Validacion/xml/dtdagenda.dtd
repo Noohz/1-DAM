@@ -1,0 +1,4 @@
+<!ELEMENT agenda (persona)+>
+<!ELEMENT persona (nombre, tlf)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT tlf (#PCDATA)>

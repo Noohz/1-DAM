@@ -1,0 +1,55 @@
+.principal{
+    font-size:24px;
+    color:#ff0000;
+}
+
+.secundario{
+    font-size:18px;
+    color:#008000;
+}
+
+.otra{
+    text-decoration: underline;
+}
+
+/* Las clases también se pueden declarar como exclusivas para un tipo específico de elementos declarando el nombre del elemento antes del punto.
+Por ejemplo: */
+p.escribir{
+    color: #ff0000;
+}
+
+/* Los elementos <p> que tienen un atributo llamado “name” */
+p[name]{
+    font-size: 20px;
+    color: #ff0000;
+}
+
+/* Los elemento <p> que tienen un atributo llamado name que posee el valor “La Hermana”. */
+p[name="La Hermana"]{
+    font-size: 20px;
+    color: #ff0010;
+}
+
+/* ~= referencia cualquier elemento <p> cuyo atributo name incluye la palabra "El". */
+p[name~="El"]{
+    font-size: 20px;
+    color: #ff0100;
+}
+
+/* ^= referencia cualquier elemento <p> cuyo atributo name comienza por “El”. */
+p[name^="El"]{
+    font-size: 20px;
+    color:#008000
+}
+
+/*$= referencia cualquier elemento <p> con un atributo name cuyo valor termina en “tro” */
+p[name$="tro"]{
+    font-size: 20px;
+    color: aliceblue;
+}
+
+/**= referencia cualquier elemento <p> con un atributo name cuyo valor contiene la cadena de caracteres “ro” */
+p[name*="ro"]{
+    font-size: 20px;
+    color: aqua;
+}

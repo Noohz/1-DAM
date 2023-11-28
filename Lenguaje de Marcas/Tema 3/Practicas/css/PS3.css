@@ -1,0 +1,25 @@
+.rotulo{
+    width:900px;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    background: #ddddff;
+    font: bold 26px Arial;
+    color: #000080;
+    border: 5px solid #000080;
+    border-radius: 20px;
+}
+
+main {
+    width: 900px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 5px solid #000080;
+    border-radius: 20px;
+    background: #eeeeff;
+    font: normal 18px Arial;
+    color: #000080;
+    text-align:justify;
+    column-count: 3;
+    column-gap: 20px;
+}

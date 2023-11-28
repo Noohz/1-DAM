@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<biblioteca>
+    <libro año="1984">
+      <titulo>Organización de computadoras</titulo>
+      <autor>
+        <apellidos>Tanembaum</apellidos>
+        <nombre>Andrew</nombre>
+      </autor>
+      <editorial>Perentice-Hall</editorial>
+      <precio>18.5</precio>
+    </libro>
+    
+  <libro año="1996">
+    <titulo>UNIX. Programación avanzada</titulo>
+    <autor>
+      <apellidos>Márquez</apellidos>
+      <nombre>Fco. Manuel</nombre>
+      </autor>
+      <editorial>RA-MA</editorial>
+      <precio>22</precio>
+    </libro>
+
+  <libro año="1991">
+    <titulo>Metodología de la programación</titulo>
+    <autor>
+      <apellidos>Alcalde</apellidos>
+      <nombre>Eduardo</nombre>
+    </autor>
+    
+    <autor>
+      <apellidos>García</apellidos>
+      <nombre>Miguel</nombre>
+    </autor>
+    <editorial>McGraw-Hill</editorial>
+    <precio>17</precio>
+  </libro>
+
+  <libro año="1988">
+    <titulo>Programación ENSAMBLADOR</titulo>
+    <autor>
+      <apellidos>Rodríguez-Roselló</apellidos>
+      <nombre>Miguel Ángel</nombre>
+    </autor>
+    <editorial>Anaya</editorial>
+    <precio>44.5precio</precio>
+  </libro>
+</biblioteca>

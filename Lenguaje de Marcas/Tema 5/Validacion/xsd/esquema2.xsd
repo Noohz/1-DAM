@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+    <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+        <xs:element name="alumno" type="persona"/>
+
+        <xs:complexType name="persona">
+
+            <xs:sequence>
+
+                <xs:element name="nombre" type="xs:string"/>
+
+                <xs:element name="apellidos" type="xs:string"/>
+
+                <xs:element name="casado" type="xs:boolean"/>
+
+                <xs:element name="hijos" type="xs:integer"/>
+
+                <xs:element name="nacimiento" type="xs:date"/>
+
+            </xs:sequence>
+
+        </xs:complexType>
+
+</xs:schema>
