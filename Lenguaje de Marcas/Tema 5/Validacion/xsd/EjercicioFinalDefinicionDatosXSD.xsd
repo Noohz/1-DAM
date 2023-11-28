@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="alumnos">
+
+        <xs:complexType>
+            
+            <xs:sequence>
+
+                <xs:element name="alumno" type="datos_alumno" minOccurs="1" maxOccurs="unbounded"/>
+
+            </xs:sequence>
+
+        </xs:complexType>  
+
+    </xs:element>
+
+
+    <!-- Definición del tipo datos_alumno -->
+
+    <xs:complexType name="datos_alumno">
+
+        <xs:sequence>
+
+            <xs:element name="nombre" type="xs:string"/>
+            <xs:element name="apellidos" type="xs:string"/>
+            <xs:element name="direccion" type="datos_direccion"/>
+            <xs:element name="contactar" type="datos_contactar"/>
+
+        </xs:sequence>
+
+    </xs:complexType>
+
+    <!-- Definición del tipo datos_dirección -->
+    
+    <xs:complexType name="datos_direccion">
+
+        <xs:sequence>
+
+            <xs:element name="domicilio" type="xs:string"/>
+            <xs:element name="codigo_postal" type="xs:integer"/>
+            <xs:element name="localidad" type="xs:string"/>
+            <xs:element name="provincia" type="xs:string"/>
+
+        </xs:sequence>
+
+    </xs:complexType>
+
+
+    <!-- Definición del tipo datos_contactar -->
+
+    <xs:complexType name="datos_contactar">
+
+        <xs:sequence>
+
+            <xs:element name="telf_casa" type="xs:integer"/>
+            <xs:element name="telf_movil" type="xs:integer"/>
+            <xs:element name="telf_trabajo" type="xs:integer"/>
+            <xs:element name="telf_trabajo" type="xs:integer"/>
+            <xs:element name="email" type="xs:string"/>
+
+        </xs:sequence>
+
+    </xs:complexType>
+
+</xs:schema>

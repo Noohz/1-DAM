@@ -1,0 +1,15 @@
+p:nth-child(2){
+    background-color: #f8c471;
+}
+
+p:nth-child(3){
+    background-color: #fad7a0;
+}
+
+p:nth-child(4){
+    background-color: #fdebd0;
+}
+
+p:nth-child(5){
+    background-color: #fef5e7;
+}

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE peliculas SYSTEM "plantilla.dtd">
+
+<peliculas>
+
+      <pelicula>
+      
+        <titulo>Barrio</titulo>
+        <director>Fernando León de Aranoa</director>
+        <director>José Luis García Sánchez</director>
+        <actor>Rafael Álvarez</actor>
+        <actor>Karra Elejalde</actor>
+        <actor>Beatriz Rico</actor>
+        <actor>Álvaro de Luna</actor>
+        <anno>2001</anno>
+        
+      </pelicula>
+
+      <pelicula>
+      
+        <titulo>Piratas del Caribe: La maldición de la Perla Negra</titulo>
+        <director>Gore Verbinski</director>
+        <actor>Johnny Depp</actor>
+        <anno>2003</anno>
+        
+      </pelicula>
+      
+      <pelicula>
+      
+        <titulo>El Marciano</titulo>
+        <director>Ridley Scott</director>
+    </pelicula>
+
+</peliculas>

@@ -1,0 +1,24 @@
+div{
+    border:2px solid;
+    border-radius:10px;
+    width:200px;
+    height:200px;
+    position:relative;
+    font-size:72px;
+}
+
+.uno{
+    background:#ffaaaa;
+    }
+
+.dos{
+    background:#aaffaa;
+    top:-100px;
+    left:100px;
+    }
+    
+.tres{
+    background:#aaaaff;
+    top:-200px;
+    left:200px;
+    }

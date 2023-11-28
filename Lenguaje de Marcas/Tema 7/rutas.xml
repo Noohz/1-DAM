@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rutas>
+
+    <ruta zona="Gredos">
+        <origen>Plataforma Hoyos del Espino</origen>
+        <destino>Laguna Grande</destino>
+        <km>13</km>
+    </ruta>
+    
+    <ruta zona="Béjar">
+        <origen>Plataforma El travieso</origen>
+        <destino>Calvitero</destino>
+        <km>16</km>
+    </ruta>
+    
+     <ruta zona="Hurdes">
+        <origen>Riomalo de Abajo</origen>
+        <destino>Meandro del Melero</destino>
+        <km>16</km>
+    </ruta>
+        
+    <ruta zona="Gredos">
+        <origen>Plataforma Hoyos del Espino</origen>
+        <destino>Almanzor y Galana</destino>
+        <km>22</km>
+    </ruta>
+    
+    <ruta zona="Gredos">
+        <origen>Plataforma Nogal del Barranco</origen>
+        <destino>La Mira</destino>
+        <km>6</km>
+    </ruta>
+     
+  </rutas>
