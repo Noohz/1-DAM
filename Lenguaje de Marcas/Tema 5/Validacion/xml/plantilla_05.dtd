@@ -1,4 +1,0 @@
-<!ELEMENT articulo (id | serie)>
-<!ELEMENT id (#PCDATA)>
-<!ELEMENT serie (#PCDATA)>
-<!ELEMENT lote (#PCDATA)>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE alumnos SYSTEM "plantilla_09.dtd">
-
-<alumnos>
-
-    <nombre edad="36" telefono="927 11 11 11">Rafael Nadal</nombre>
-    <nombre edad="41" telefono="927 22 22 22">Fernando Alonso</nombre>
-    
-</alumnos>
